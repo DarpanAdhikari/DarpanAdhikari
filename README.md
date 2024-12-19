@@ -1,3 +1,4 @@
+![logo](https://github.com/DarpanAdhikari/DarpanAdhikari/blob/main/background.jpg)
 <h1 align="center">Hi 👋, I'm Darpan Adhikari</h1>
 <h3 align="center">A Passionate Web Developer from Nepal</h3>
 
