@@ -76,15 +76,3 @@ Feel free to connect with me if you're interested in collaborating on exciting p
   <a href="https://twitter.com/darpan_3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/darpan-adhikari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
----
-
-### 🎨 Animated Skills (Optional GIF)
-
-You can also add an animated GIF to showcase your work in web development or any of your standout projects.
-
-For instance, here’s an example of how to include an animation for a "skills" section:
-
-```markdown
-![Developer GIF](https://media.giphy.com/media/TkHnLLO3tO9Zq/giphy.gif)
-```
