@@ -73,9 +73,16 @@
 ### 🚀 My Contributions  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darpanadhikari&theme=radical" alt="GitHub Streak"/>
+  <a href="https://twitter.com/darpan_3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/darpan-adhikari-81b866280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/darpan.adhikari2" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </p>
-
 ---
 
 ### 💬 Let's Connect!
