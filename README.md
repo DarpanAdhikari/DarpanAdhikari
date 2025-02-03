@@ -70,10 +70,12 @@
 
 ---
 
-### 🚀 My Contributions  
+### 💬 Let's Connect!
+
+Feel free to contact me for internship and job opportunities through the following information.
 
 <p align="center">
-  <a href="https://twitter.com/darpan_3" target="_blank">
+ <a href="https://twitter.com/darpan_3" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/darpan-adhikari-81b866280" target="_blank">
@@ -82,14 +84,4 @@
   <a href="https://www.facebook.com/darpan.adhikari2" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-</p>
----
-
-### 💬 Let's Connect!
-
-Feel free to connect with me if you're interested in collaborating on exciting projects, discussing tech trends, or learning about new technologies!
-
-<p align="center">
-  <a href="https://twitter.com/darpan_3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/darpan-adhikari-81b866280" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
