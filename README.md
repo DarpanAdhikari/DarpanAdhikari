@@ -28,6 +28,11 @@
 
 ### 💻 Skills & Tools
 
+#### Live Projects
+- [Own Portfolio](https://darpanadhikari.com.np/):
+- [Document Editor "Inbuilt Nepali spelling checker"](https://merodoc.darpanadhikari.com.np/)
+- [Typing Speed Tester](https://typingtest.darpanadhikari.com.np/)
+
 #### My Core Skills
 
 <p align="center">
