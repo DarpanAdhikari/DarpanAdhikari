@@ -18,7 +18,7 @@
 
 ---
 ### Live Projects
-- [Own Portfolio](https://darpanadhikari.com.np/):
+- [Own Portfolio](https://darpanadhikari.com.np/)
 - [Document Editor "Inbuilt Nepali spelling checker"](https://merodoc.darpanadhikari.com.np/)
 - [Typing Speed Tester](https://typingtest.darpanadhikari.com.np/)
 ---
