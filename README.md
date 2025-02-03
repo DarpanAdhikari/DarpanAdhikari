@@ -17,7 +17,11 @@
 - ⚡ Fun Fact: **I love exploring modern technologies!**  
 
 ---
-
+### Live Projects
+- [Own Portfolio](https://darpanadhikari.com.np/):
+- [Document Editor "Inbuilt Nepali spelling checker"](https://merodoc.darpanadhikari.com.np/)
+- [Typing Speed Tester](https://typingtest.darpanadhikari.com.np/)
+---
 ### 🌐 Connect With Me  
 <p align="left">
   <a href="https://twitter.com/darpan_3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -27,11 +31,6 @@
 ---
 
 ### 💻 Skills & Tools
-
-#### Live Projects
-- [Own Portfolio](https://darpanadhikari.com.np/):
-- [Document Editor "Inbuilt Nepali spelling checker"](https://merodoc.darpanadhikari.com.np/)
-- [Typing Speed Tester](https://typingtest.darpanadhikari.com.np/)
 
 #### My Core Skills
 
