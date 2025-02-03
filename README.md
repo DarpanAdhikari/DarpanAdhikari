@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **College Management Project**  
+- 🔭 Currently seeking for **LARAVEL**, **DJANGO** internship in Nepal  
 - 🌱 Learning **AI Integration in Django Projects**  
-- 👨‍💻 Explore all my projects at **[GitHub](https://github.com/DarpanAdhikari)**  
+- 👨‍💻 Explore my projects at **[GitHub](https://github.com/DarpanAdhikari?tab=repositories)**  
 - 📫 Reach me at **darpand263@gmail.com**  
-- 📄 Know about my experiences on **[My Website](https://darpanadhikari.com.np/)**  
+- 📄 Know about my experiences on **[My Portfolio](https://darpanadhikari.com.np/)**  
 - ⚡ Fun Fact: **I love exploring modern technologies!**  
 
 ---
