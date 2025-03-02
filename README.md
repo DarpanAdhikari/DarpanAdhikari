@@ -36,6 +36,9 @@
   <a href="https://www.facebook.com/darpan.adhikari2" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
+    <a href="https://www.npmjs.com/~darpan-adhikari" target="_blank">
+    <img src="https://img.shields.io/badge/npmjs-%23FF0000.svg?style=for-the-badge&logo=npmjs&logoColor=white" alt="Npmjs">
+  </a>
 </p>
 
 ---
