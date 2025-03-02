@@ -18,9 +18,12 @@
 
 ---
 ### Live Projects
-- [Own Portfolio](https://darpanadhikari.com.np/)
+- [Profile](https://darpanadhikari.com.np/)
 - [Document Editor "Inbuilt Nepali spelling checker"](https://merodoc.darpanadhikari.com.np/)
-- [Typing Speed Tester](https://typingtest.darpanadhikari.com.np/)
+- [Js/Css Minifier](https://minifier.darpanadhikari.com.np/)
+- [HTML/CSS/JS Compiler](https://compiler.darpanadhikari.com.np/)
+- [Typing Speed Tester](https://darpanadhikari.github.io/typing-test/)
+- [Nepali Typing](https://darpanadhikari.github.io/typer-test/)
 ---
 ### 🌐 Connect With Me  
 <p align="left" style="display: flex; gap: 40px;">
