@@ -13,7 +13,7 @@
 - 👨‍💻 Explore my projects at **[GitHub](https://github.com/DarpanAdhikari?tab=repositories)**  
 - 📫 Reach me at **darpand263@gmail.com**  
 - 📄 Know about my experiences on **[My Portfolio](https://darpanadhikari.com.np/)**  
-- ⚡ Fun Fact: **I love exploring modern technologies!**  
+- ⚡ Secret: **I love exploring modern technologies!**  
 
 ---
 ### Live Projects
