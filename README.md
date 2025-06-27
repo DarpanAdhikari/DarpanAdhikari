@@ -22,8 +22,10 @@
 - [Document Editor "Inbuilt Nepali spelling checker"](https://merodoc.darpanadhikari.com.np/)
 - [Js/Css Minifier](https://minifier.darpanadhikari.com.np/)
 - [HTML/CSS/JS Compiler](https://compiler.darpanadhikari.com.np/)
+- [Hour Counter](https://hourcounter.darpanadhikari.com.np/)
 - [Typing Speed Tester](https://darpanadhikari.github.io/typing-test/)
-- [Nepali Typing](https://darpanadhikari.github.io/typer-test/)
+- [File Reader](https://darpanadhikari.github.io/file-reader/)
+- [Documentation Laravel/Django/Flutter/Readme reader](https://darpanadhikari.github.io/file-reader/)
 ---
 ### 🌐 Connect With Me  
 <p align="left" style="display: flex; gap: 40px;">
