@@ -9,8 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently seeking for **LARAVEL**, **DJANGO** internship in Nepal  
-- 🌱 Learning **AI Integration in Django Projects**  
+- 🌱 Doing **AI Integration**  
 - 👨‍💻 Explore my projects at **[GitHub](https://github.com/DarpanAdhikari?tab=repositories)**  
 - 📫 Reach me at **darpand263@gmail.com**  
 - 📄 Know about my experiences on **[My Portfolio](https://darpanadhikari.com.np/)**  
